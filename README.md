@@ -1,3 +1,5 @@
+English | [中文](README_CN.md)
+
 # Icon Hook LSP
 
 ![Android](https://img.shields.io/badge/Android-8%2B-3DDC84)
