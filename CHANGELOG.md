@@ -1,5 +1,11 @@
 # Changelog
 
+## v4.17
+
+- Added a visible project link in the companion app.
+- Embedded the public project URL in APK resources and package metadata.
+- Kept the public signing identity as 長島不加冰.
+
 ## v4.16
 
 - Published a refreshed public APK artifact.
