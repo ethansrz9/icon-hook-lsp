@@ -1,6 +1,4 @@
-English | [中文](README_CN.md)
-
-</p>
+[English](https://github.com/ethansrz9/icon-hook-lsp#readme) | [中文](https://github.com/ethansrz9/icon-hook-lsp/blob/main/README_CN.md)
 
 # Icon Hook LSP
 
