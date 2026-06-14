@@ -1,5 +1,11 @@
 # Changelog
 
+## v4.16
+
+- Published a refreshed public APK artifact.
+- Updated public package metadata and signing certificate identity to 長島不加冰.
+- Removed the previous public release artifact from GitHub Releases.
+
 ## v4.15
 
 - Published a public release-oriented repository layout.
