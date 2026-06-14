@@ -7,7 +7,11 @@
 
 Icon Hook LSP is an Android LSPosed/Xposed module for user-configurable app label and icon display replacement.
 
-This repository is a public release and showcase repository. It is intended to provide project information, public APK downloads, release notes, checksums, and contact guidance. The private development source tree, complete build chain, internal implementation, and adaptation details are not published here.
+Maintainer: [長島不加冰.](https://github.com/ethansrz9)
+
+Project page: <https://github.com/ethansrz9/icon-hook-lsp>
+
+This repository distributes public releases and project information only. The private development source tree, complete build chain, internal implementation, and adaptation details are not published here.
 
 ## Features
 
